@@ -1,0 +1,15 @@
+body {
+    width: 20rem;
+    font: sans-serif;
+}
+
+.colorTag {
+    height: 1rem;
+    width: 1rem;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#unused_interval {
+    width: 4rem;
+}
